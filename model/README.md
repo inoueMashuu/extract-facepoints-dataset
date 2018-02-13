@@ -1,0 +1,1 @@
+You can download the 68 landmarks model [here](https://github.com/davisking/dlib-models).
